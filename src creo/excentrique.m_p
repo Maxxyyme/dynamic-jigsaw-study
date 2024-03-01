@@ -1,0 +1,51 @@
+﻿VOLUME =  1.0431134e+04  MM^3
+SUPERFICIE =  6.0009526e+03  MM^2
+MASSE VOLUMIQUE MOYENNE =  7.8000000e-09 TONNE METRIQUE / MM^3
+MASSE =  8.1362846e-05 TONNE METRIQUE 
+
+CENTRE DE GRAVITE relatif au repère _EXCENTRIQUE :
+X   Y   Z  0.0000000e+00 -2.1839958e+00  2.3520653e+00  MM
+
+INERTIE relative au repère _EXCENTRIQUE :  (TONNE METRIQUE * MM^2)
+
+TENSEUR D'INERTIE :
+Ixx Ixy Ixz  3.6624296e-03 -1.1841517e-08  0.0000000e+00
+Iyx Iyy Iyz -1.1841517e-08  3.0015714e-03  8.1719332e-04
+Izx Izy Izz  0.0000000e+00  8.1719332e-04  2.0667507e-03
+
+INERTIE au CENTRE DE GRAVITE relative au repère _EXCENTRIQUE :  (TONNE METRIQUE * MM^2)
+
+TENSEUR D'INERTIE :
+Ixx Ixy Ixz  2.8242256e-03  0.0000000e+00  0.0000000e+00
+Iyx Iyy Iyz  0.0000000e+00  2.5514550e-03  3.9924046e-04
+Izx Izy Izz  0.0000000e+00  3.9924046e-04  1.6786632e-03
+
+MOMENTS PRINCIPAUX D'INERTIE :  (TONNE METRIQUE * MM^2)
+I1  I2  I3   1.5235911e-03  2.7065270e-03  2.8242256e-03
+
+MATRICE ROTATION _EXCENTRIQUE orientée par rapport aux AXES PRINCIPAUX :
+       0.00000        0.00009       -1.00000
+      -0.36206        0.93215        0.00009
+       0.93215        0.36206        0.00003
+
+ANGLES DE ROTATION _EXCENTRIQUE orientés par rapport aux AXES PRINCIPAUX (degrés):
+angles suivant x y z   0.000        -89.995        -21.227 
+
+RAYON DE GYRATION relatif aux AXES PRINCIPAUX :
+R1  R2  R3 4.3273413e+00  5.7675732e+00  5.8916457e+00  MM
+
+---------------------------------------------
+
+PROPRIETES MASSIQUES DES COMPOSANTS DE L'ASSEMBLAGE
+(en unités de l'assemblage et repère _EXCENTRIQUE)
+
+   MASSE VOLUMIQUE             MASSE          C.G :  X        Y         Z
+
+                            ROUE             MATIERE:                              UNKNOWN
+         1.00000e-09  8.32339e-06  0.00000e+00  2.07272e+00  3.26139e+00
+                       AXE_D7-30             MATIERE:                              UNKNOWN
+         7.87000e-09  9.04499e-06  0.00000e+00  0.00000e+00 -6.00000e+00
+                       AXE_D5-18             MATIERE:                              UNKNOWN
+         7.87000e-09  2.75264e-06  0.00000e+00 -9.50000e+00  9.00000e+00
+                           BAGUE             MATIERE:                              UNKNOWN
+         7.87000e-09  4.79034e-06  0.00000e+00 -9.50000e+00  1.27222e+01

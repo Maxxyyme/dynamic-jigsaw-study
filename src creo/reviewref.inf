@@ -1,0 +1,41 @@
+﻿|***************************|
+    INFORMATIONS DE REFERENCE    
+|***************************|
+ Référence No.1 sortie de 1 
+
+Référence:
+   TYPE   : arête
+
+Statut   : dans la géométrie
+
+
+Propriétaire de la référence:
+ Modèle  :
+   NOM    : AXE_D5-18
+   TYPE   : Pièce
+ Fonction:
+
+    NUMERO DE FONCTION 6
+    ID FONCTION INTERNE 27
+    PARENTS = 25(#5) 
+    TYPE = Fonction importée - IGES 
+ ATTRIBUT: JONCTION DE SURFACES
+ ATTRIBUT: CREER SOLIDE
+
+
+
+    Les entités et la géométrie de la fonction se trouvent sur les couches :
+
+    Surface composée créée par la fonction 6, modèle AXE_D5-18.
+      INTF_104 - OPERATION = AFFICHEE
+      INTFCLR_102425 - OPERATION = AFFICHEE
+      QUILTS - OPERATION = AFFICHEE
+
+    Géométrie solide de part AXE_D5-18.
+      INTF_104 - OPERATION = AFFICHEE
+      INTFCLR_102425 - OPERATION = AFFICHEE
+
+RELATION                           PARAMETRE                 NOUV VALEUR
+--------                           ---------                 --- -----
+
+*** Relations de pièce pilotées par cette fonction :

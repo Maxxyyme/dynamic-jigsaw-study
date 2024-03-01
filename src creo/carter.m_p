@@ -1,0 +1,101 @@
+﻿VOLUME =  5.3787703e+05  MM^3
+SUPERFICIE =  3.7029792e+05  MM^2
+MASSE VOLUMIQUE MOYENNE =  2.4400000e-09 TONNE METRIQUE / MM^3
+MASSE =  1.3124200e-03 TONNE METRIQUE 
+
+CENTRE DE GRAVITE relatif au repère _CARTER :
+X   Y   Z  7.0655510e+01 -1.9007433e+01  0.0000000e+00  MM
+
+INERTIE relative au repère _CARTER :  (TONNE METRIQUE * MM^2)
+
+TENSEUR D'INERTIE :
+Ixx Ixy Ixz  1.9951345e+04  3.1431215e+04  0.0000000e+00
+Iyx Iyy Iyz  3.1431215e+04  1.7005377e+05  0.0000000e+00
+Izx Izy Izz  0.0000000e+00  0.0000000e+00  1.6874696e+05
+
+INERTIE au CENTRE DE GRAVITE relative au repère _CARTER :  (TONNE METRIQUE * MM^2)
+
+TENSEUR D'INERTIE :
+Ixx Ixy Ixz  1.9950871e+04  3.1429452e+04  0.0000000e+00
+Iyx Iyy Iyz  3.1429452e+04  1.7004722e+05  0.0000000e+00
+Izx Izy Izz  0.0000000e+00  0.0000000e+00  1.6873994e+05
+
+MOMENTS PRINCIPAUX D'INERTIE :  (TONNE METRIQUE * MM^2)
+I1  I2  I3   1.3635423e+04  1.6873994e+05  1.7636267e+05
+
+MATRICE ROTATION _CARTER orientée par rapport aux AXES PRINCIPAUX :
+       0.98040        0.00000       -0.19700
+      -0.19700        0.00000       -0.98040
+       0.00000        1.00000        0.00000
+
+ANGLES DE ROTATION _CARTER orientés par rapport aux AXES PRINCIPAUX (degrés):
+angles suivant x y z  90.000        -11.362          0.000 
+
+RAYON DE GYRATION relatif aux AXES PRINCIPAUX :
+R1  R2  R3 3.2232790e+03  1.1338942e+04  1.1592228e+04  MM
+
+---------------------------------------------
+
+PROPRIETES MASSIQUES DES COMPOSANTS DE L'ASSEMBLAGE
+(en unités de l'assemblage et repère _CARTER)
+
+   MASSE VOLUMIQUE             MASSE          C.G :  X        Y         Z
+
+                           CORPS             MATIERE:                              UNKNOWN
+         4.00000e-09  7.26019e-04  8.52127e+01  6.77868e+01  1.68819e+01
+                          CORPS1             MATIERE:                              UNKNOWN
+         4.00000e-09  7.59469e-04  8.76015e+01  6.91191e+01 -1.66452e+01
+                     SUPPORT_RLT             MATIERE:                              UNKNOWN
+         7.87000e-09  4.37021e-05  4.89917e+01  5.90876e+01  0.00000e+00
+                           GUIDE             MATIERE:                              UNKNOWN
+         7.87000e-09  9.00328e-06  1.90000e+01  9.70000e+01  5.00000e-01
+                           GUIDE             MATIERE:                              UNKNOWN
+         7.87000e-09  9.00328e-06  1.90000e+01  4.10000e+01  5.00000e-01
+                          STATOR             MATIERE:                              UNKNOWN
+         7.87000e-09  4.93043e-04  1.06000e+02  5.09991e+01  0.00000e+00
+                         PLATEAU             MATIERE:                              UNKNOWN
+         1.00000e-03  2.40047e+01  7.06535e+01 -1.90164e+01  0.00000e+00
+                       BOUTON_MA             MATIERE:                              UNKNOWN
+         7.87000e-09  1.71219e-04  5.57361e+01  1.33362e+02  9.82837e-01
+          ECROU_H_M4_ECROU_H_M12             MATIERE:                              UNKNOWN
+         7.87000e-09  7.79023e-07  4.50000e+00  5.95000e+01  0.00000e+00
+          ECROU_H_M6_ECROU_H_M12             MATIERE:                              UNKNOWN
+         7.87000e-09  1.80043e-06  7.30000e+01  7.51829e-01  0.00000e+00
+                  CACHE_SECURITE             MATIERE:                              UNKNOWN
+         7.87000e-09  1.55002e-04  7.27294e+00  3.24342e+01  0.00000e+00
+                   SUPPORT_GALET             MATIERE:                              UNKNOWN
+         7.87000e-09  1.48359e-05  6.22311e+01 -9.24525e+00  0.00000e+00
+                           GALET             MATIERE:                              UNKNOWN
+         7.87000e-09  1.73276e-06  2.25000e+01 -1.43540e+01  0.00000e+00
+                           RIVET             MATIERE:                              UNKNOWN
+         7.87000e-09  8.09722e-07  2.25000e+01 -1.43540e+01  0.00000e+00
+              RACCORD_ASPIRATION             MATIERE:                              UNKNOWN
+         7.87000e-09  2.08383e-05  1.78605e+02  3.30000e+01  0.00000e+00
+              MANCHON_ASPIRATION             MATIERE:                              UNKNOWN
+         7.87000e-09  1.26001e-04  2.12159e+02  3.30000e+01  0.00000e+00
+    VIS_CHC_M6-10_VIS_CHC_M14-65             MATIERE:                              UNKNOWN
+         7.87000e-09  6.55691e-06  7.30000e+01  7.46963e+00  0.00000e+00
+                         RACLEUR             MATIERE:                              UNKNOWN
+         7.87000e-09  3.87204e-06  1.90000e+01  3.45000e+01  5.00000e-01
+                         CHARBON             MATIERE:                              UNKNOWN
+         7.87000e-09  1.72432e-05  1.46000e+02  7.17597e+01  0.00000e+00
+                         CHARBON             MATIERE:                              UNKNOWN
+         7.87000e-09  1.72432e-05  1.46000e+02  3.02385e+01  0.00000e+00
+                       VIS_ECROU             MATIERE:                              UNKNOWN
+         7.87000e-09  3.19916e-06  1.54002e+02  1.26000e+02 -1.25577e+00
+                       VIS_ECROU             MATIERE:                              UNKNOWN
+         7.87000e-09  3.19916e-06  2.00000e+01  1.35000e+02 -1.25577e+00
+                       VIS_ECROU             MATIERE:                              UNKNOWN
+         7.87000e-09  3.19916e-06  4.90000e+01  2.80000e+01 -1.25577e+00
+                       VIS_ECROU             MATIERE:                              UNKNOWN
+         7.87000e-09  3.19916e-06  6.00000e+01  5.00000e+00 -1.25577e+00
+                       VIS_ECROU             MATIERE:                              UNKNOWN
+         7.87000e-09  3.19916e-06  9.00000e+01  5.00000e+00 -1.25577e+00
+                       VIS_ECROU             MATIERE:                              UNKNOWN
+         7.87000e-09  3.19916e-06  1.65000e+02  1.10000e+01 -1.25577e+00
+                       VIS_ECROU             MATIERE:                              UNKNOWN
+         7.87000e-09  3.19916e-06  1.65000e+02  7.30000e+01 -1.25577e+00
+                       VIS_ECROU             MATIERE:                              UNKNOWN
+         7.87000e-09  3.19916e-06  4.90000e+01  7.97991e+01 -1.25577e+00
+                       VIS_ECROU             MATIERE:                              UNKNOWN
+         7.87000e-09  3.19916e-06  9.00000e+00  5.10000e+01 -1.25577e+00
